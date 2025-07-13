@@ -30,7 +30,7 @@ I learned how `require` ensures safety, `block.timestamp` handles deadlines, and
 - **`README.md`**: This file, detailing my project and journey.
 
 ## Source
-Built using [Solidity by Example’s crowdfunding template](https://solidity-by-example.org/app/crowd-funding/), licensed under MIT, with OpenZeppelin’s [ReentrancyGuard](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/security/ReentrancyGuard.sol).
+Built using [Solidity by Example’s crowdfunding template](https://solidity-by-example.org/app/crowd-fund), licensed under MIT, with OpenZeppelin’s [ReentrancyGuard](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/ReentrancyGuard.sol).
 
 ## Learning Journey
 Building DelhiFund was a thrilling step in my Web3 journey! Studying the contract taught me about Ethereum transactions, state management, and security. Deploying to Sepolia and verifying on Etherscan felt like a big win.

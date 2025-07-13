@@ -7,7 +7,7 @@
 
  ## Deployment
  - **Network**: Sepolia Testnet
- - **Contract Address**: [Paste Sepolia address here]
+ - **Contract Address**: https://sepolia.etherscan.io/address/0xa37d8bf74096f0129a88728ba6c41935e552327b
 
  ## Features
  - Goal: 1 ETH

@@ -4,7 +4,7 @@ pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
-contract DelhiFund is ReentrancyGuard {
+contract MumbaiFund is ReentrancyGuard {
     address public owner;
     uint256 public goal = 1 ether;
     uint256 public deadline;
